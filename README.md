@@ -11,8 +11,8 @@ This project aims at building a web App that automatically estimates food attrib
 * Nutritional information of the analyzed image is returned to the app for display
 
 ### Team Members
-1. Abdul Sikkanthar S (Front-End Developer)
-2. Al Hameed Farvaz A (Tester)
+1. Abdul Sikkanthar A (Front-End Developer)
+2. Al Hameed Farvaz S (Tester)
 3. Emayakeerthi N (Back-End Developer)
 4. Rithik S (Front-End Developer)
 
